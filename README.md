@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obimoney97
+- 👋 Hi, I’m francess
 - 👀 I’m interested in building 
 - 🌱 I’m currently learning tech skills
 - 💞️ I’m looking to collaborate on a project
