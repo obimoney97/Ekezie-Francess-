@@ -1,5 +1,5 @@
-- 👋 Hi, I’m francess
-- 👀 I’m interested in building 
+- 👋 Hi, I’m francess Ekezie
+- 👀 I’m a web publisher, PR and communication specialist
 - 🌱 I’m currently learning tech skills
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ekezieezinne@gmail.com
