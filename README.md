@@ -1,10 +1,6 @@
-- 👋 Hi, I’m francess Ekezie
-- 👀 I’m a web publisher and admin, corporate Relations,Brand Strategist and community manager
-- 🌱 I’m a baby Techie
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me ekezieezinne@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i love you
+About Me
+
+Hi, I’m Francess Ekezie,  a communications strategist, media professional, and creative director helping brands tell better stories and get seen by the right people.
 
 <!---
 obimoney97/obimoney97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
